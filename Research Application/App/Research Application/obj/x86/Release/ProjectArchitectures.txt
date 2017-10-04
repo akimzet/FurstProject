@@ -1,0 +1,4 @@
+C:\Users\Andrew Kim\Desktop\Research Application\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Andrew Kim\Desktop\Research Application\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Andrew Kim\Desktop\Research Application\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Andrew Kim\Desktop\Research Application\App\Research Application\Research Application.csproj;x86
